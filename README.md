@@ -56,6 +56,6 @@ Sistema de seguimiento de tareas, proyectos y prioridades empresariales.
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Afdav&theme=onedark&count_private=true" alt="Afdav" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Afdav&theme=onedark&locale=es" alt="Afdav" /></p>
 
 ---
