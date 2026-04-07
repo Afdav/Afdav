@@ -42,11 +42,11 @@ Sistema de seguimiento de tareas, proyectos y prioridades empresariales.
 ## 📬 Contacto
 
 <p align="left">
-<a href="https://github.com/Afdav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Afdav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/edavid-af" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edavid-af" height="30" width="40" /></a>
-<a href="https://fb.com/edgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edgar" height="30" width="40" /></a>
-<a href="https://instagram.com/edavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edavid" height="30" width="40" /></a>
-<a href="https://discord.gg/123213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="123213" height="30" width="40" /></a>
+<a href="https://github.com/Afdav" target="blank"><img align="center" src="https://raw.githubusercontent.com/Afdav/Afdav/main/public/icons/Social/github.svg" alt="Afdav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edavid-af" target="blank"><img align="center" src="https://raw.githubusercontent.com/Afdav/Afdav/main/public/icons/Social/linked-in-alt.svg" alt="edavid-af" height="30" width="40" /></a>
+<a href="https://fb.com/edgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/Afdav/Afdav/main/public/icons/Social/facebook.svg" alt="edgar" height="30" width="40" /></a>
+<a href="https://instagram.com/edavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/Afdav/Afdav/main/public/icons/Social/instagram.svg" alt="edavid" height="30" width="40" /></a>
+<a href="https://discord.gg/123213" target="blank"><img align="center" src="https://raw.githubusercontent.com/Afdav/Afdav/main/public/icons/Social/discord.svg" alt="123213" height="30" width="40" /></a>
 </p>
 
 
