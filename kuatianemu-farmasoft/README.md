@@ -1,14 +1,13 @@
-# 💊 Kuatiañemu FarmaSoft – Sistema de Gestión para Farmacias
+# Kuatiañemu FarmaSoft – Sistema de Gestión para Farmacias
 
-<a href="../README.md" type="button" style="color: white; background: green; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px; text-decoration: none;">Volver al Inicio</a>
 
-## 📌 Descripción
+## Descripción
 
 Sistema integral de gestión para farmacias orientado a ventas, control de inventario y administración de clientes, incluyendo manejo de créditos y productos con vencimiento.
 
 ---
 
-## 🚀 Tecnologías
+## Tecnologías
 
 - Laravel 8
 - PHP 7.4
@@ -17,7 +16,7 @@ Sistema integral de gestión para farmacias orientado a ventas, control de inven
 
 ---
 
-## 🧠 Funcionalidades principales
+## Funcionalidades principales
 
 - Gestión de ventas con multipago
 - Control de cajas y arqueos
@@ -31,18 +30,22 @@ Sistema integral de gestión para farmacias orientado a ventas, control de inven
 
 ---
 
-## 🖼️ Capturas del sistema
+## Capturas del sistema
 
-Agrega aquí tus capturas reales dentro de la carpeta /images
+| **Captura 1** | **Captura 2** |
+| :---: | :---: |
+| <img src="../public/img/far1_r.png" alt="Captura 1" width="600"/> | <img src="../public/img/far2_r.png" alt="Captura 2" width="600"/> |
+| **Captura 3** | ****Captura 4** |
+| <img src="../public/img/far3_r.png" alt="Captura 3" width="600"/> | <img src="../public/img/far4_r.png" alt="Captura 4" width="600"/> |
 
 ---
 
-## 💡 Valor del sistema
+## Valor del sistema
 
 Permite gestionar productos sensibles como medicamentos con control de vencimiento.
 
 ---
 
-## 🔒 Nota
+## Nota
 
 Proyecto privado desarrollado para uso comercial.

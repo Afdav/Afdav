@@ -1,15 +1,13 @@
-# 🧾 FactuTeeté – Plataforma de Facturación Electrónica (SaaS)
+# FactuTeeté – Plataforma de Facturación Electrónica (SaaS)
 
 
-<a href="../README.md" type="button" style="color: white; background: green; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px; text-decoration: none;">Volver al Inicio</a>
-
-## 📌 Descripción
+## Descripción
 
 Sistema SaaS multi-tenant para facturación electrónica en Paraguay, integrado con SIFEN y con API REST para integración externa.
 
 ---
 
-## 🚀 Tecnologías
+## Tecnologías
 
 - Laravel 10
 - PHP 8.3
@@ -17,7 +15,7 @@ Sistema SaaS multi-tenant para facturación electrónica en Paraguay, integrado 
 
 ---
 
-## 🧠 Funcionalidades principales
+## Funcionalidades principales
 
 - Emisión de comprobantes electrónicos
 - Envío a SIFEN y control de estados
@@ -29,18 +27,24 @@ Sistema SaaS multi-tenant para facturación electrónica en Paraguay, integrado 
 
 ---
 
-## 🖼️ Capturas del sistema
+## Capturas del sistema
 
-Agrega aquí tus capturas reales dentro de la carpeta /images
+
+| **Captura 1** | **Captura 2** |
+| :---: | :---: |
+| <img src="../public/img/fac1_r.png" alt="Dashboard" width="600"/> | <img src="../public/img/fac2_r.png" alt="Semáforo" width="600"/> |
+| **Captura 3** | ****Captura 4** |
+| <img src="../public/img/fac3_r.png" alt="Captura 3" width="600"/> | <img src="../public/img/fac4_r.png" alt="Captura 4" width="600"/> |
+
 
 ---
 
-## 💡 Valor del sistema
+## Valor del sistema
 
 Permite operar con facturación electrónica cumpliendo normativas.
 
 ---
 
-## 🔒 Nota
+## Nota
 
 Sistema en producción, código privado.

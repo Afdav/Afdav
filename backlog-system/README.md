@@ -1,14 +1,12 @@
-# 📋 Backlog System – Gestión de Tickets
+# Backlog System – Gestión de Tickets
 
-<a href="../README.md" type="button" style="color: white; background: green; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px; text-decoration: none;">Volver al Inicio</a>
-
-## 📌 Descripción
+## Descripción
 
 Sistema para gestión de tareas, tickets y seguimiento de proyectos.
 
 ---
 
-## 🚀 Tecnologías
+## Tecnologías
 
 - Laravel
 - MySQL
@@ -16,7 +14,7 @@ Sistema para gestión de tareas, tickets y seguimiento de proyectos.
 
 ---
 
-## 🧠 Funcionalidades principales
+## Funcionalidades principales
 
 - Gestión de tickets
 - Priorización
@@ -27,18 +25,22 @@ Sistema para gestión de tareas, tickets y seguimiento de proyectos.
 
 ---
 
-## 🖼️ Capturas del sistema
+## Capturas del sistema
 
-Agrega aquí tus capturas reales dentro de la carpeta /images
+| **Captura 1** | **Captura 2** |
+| :---: | :---: |
+| <img src="../public/img/b1_r.png" alt="Captura 1" width="600"/> | <img src="../public/img/b2_r.png" alt="Captura 2" width="600"/> |
+| **Captura 3** | ****Captura 4** |
+| <img src="../public/img/b3_r.png" alt="Captura 3" width="600"/> | <img src="../public/img/b4_r.png" alt="Captura 4" width="600"/> |
 
 ---
 
-## 💡 Valor del sistema
+## Valor del sistema
 
 Mejora la organización y seguimiento del trabajo.
 
 ---
 
-## 🔒 Nota
+## Nota
 
 Proyecto privado.
